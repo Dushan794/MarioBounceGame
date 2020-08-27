@@ -1,0 +1,11 @@
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\bin\Debug\MarioBounceGameTutorial.exe.config
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\bin\Debug\MarioBounceGameTutorial.exe
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\bin\Debug\MarioBounceGameTutorial.pdb
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\obj\Debug\MarioBounceGameTutorial.csprojAssemblyReference.cache
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\obj\Debug\MarioBounceGameTutorial.MainMenu.resources
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\obj\Debug\MarioBounceGameTutorial.Form2.resources
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\obj\Debug\MarioBounceGameTutorial.Properties.Resources.resources
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\obj\Debug\MarioBounceGameTutorial.csproj.GenerateResource.cache
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\obj\Debug\MarioBounceGameTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\obj\Debug\MarioBounceGameTutorial.exe
+C:\Users\Dushan\source\repos\MarioBounceGameTutorial\MarioBounceGameTutorial\obj\Debug\MarioBounceGameTutorial.pdb
